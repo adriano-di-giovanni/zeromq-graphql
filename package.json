@@ -1,0 +1,19 @@
+{
+  "name": "zeromq-graphql",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriano-di-giovanni/zeromq-graphql.git"
+  },
+  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriano-di-giovanni/zeromq-graphql/issues"
+  },
+  "homepage": "https://github.com/adriano-di-giovanni/zeromq-graphql#readme"
+}
